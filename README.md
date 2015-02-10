@@ -40,6 +40,8 @@ A **Users** class maga a model, ahol megtalálhatók a mentéshez, törléshez, 
 
 ## A tesztfeladat grafikai megvalósítása:
 
+A feladathoz tartozó anyagokat a DESINGFILES mappában találod.
+
 A feladat ezen része a pontosságról szól.   
 A grafikai kialakítás is fontos része a feladatnak, de ennek kisebb a súlya mint a technikai résznek.   
 Lehetőség szerint ami megoldható CSS használatával az azzal legyen elkészítve. (Gradient, drop shadow...)   
@@ -52,4 +54,5 @@ Responsive kialakítás, megoldás előny.
 ------
 
 Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a dev@srg.hu címre, vagy tedd fel kérdésedett itt a GitHub-on egy issue formájában.   
+
 A feladatot további elemekkel is kiegészítheted, ezt már a kreativitásodra bízzuk. Lepj meg minket :)
