@@ -47,4 +47,5 @@ A felhasznált betűkészletet nem csatoljuk, ezek online megtalálható, ingyen
 Responsive kialakítás, megoldás előny.
 
 
-Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a bertalan.hais@srg.hu címre.
+Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a bertalan.hais@srg.hu címre, vagy tedd fel kérdésedett itt egy issue formájában.
+Ha valamilyen hibát találsz, nyugodtan javítsd, vagy keress meg minket. :)
