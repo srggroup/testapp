@@ -1,4 +1,4 @@
-# SRG Group Kft. Test app
+# SRG Test list
 
 ## Az alkalmazás leírása
 
@@ -48,5 +48,7 @@ A betűméretek, színek font stílusok egyezését is figyeljük.
 A felhasznált betűkészletet nem csatoljuk, ezek online megtalálható, ingyenes betűkészletek. A Psd file használatával a felhasznált fontok kinyerhetőek (legalábbis a nevük). Természetesen amennyiben nem áll rendelkezésre photoshop nem lesz lehetőség a fontok pontos megismerésére, kérünk ebben az esetben ezt jelezd, de ettől függetlenül is törekedj a lehető legjobban megközelíteni a kapott képi anyagot.
 Responsive kialakítás, megoldás előny.
 
-Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a bertalan.hais@srg.hu címre, vagy tedd fel kérdésedett itt egy issue formájában.
+------
+
+Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a bertalan.hais@srg.hu címre, vagy tedd fel kérdésedett itt egy issue formájában.   
 Ha valamilyen hibát találsz, nyugodtan javítsd, vagy keress meg minket. :)
