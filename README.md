@@ -40,7 +40,7 @@ A **Users** class maga a model, ahol megtalálhatók a mentéshez, törléshez, 
 
 ## A tesztfeladat grafikai megvalósítása:
 
-A feladathoz tartozó anyagokat a DESINGFILES mappában találod.
+A feladathoz tartozó anyagokat a DESIGNFILES mappában találod.
 
 A feladat ezen része a pontosságról szól.   
 A grafikai kialakítás is fontos része a feladatnak, de ennek kisebb a súlya mint a technikai résznek.   
