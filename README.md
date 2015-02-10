@@ -45,3 +45,6 @@ A betűméretek, színek font stílusok egyezését is figyeljük.
 A felhasznált betűkészletet nem csatoljuk, ezek online megtalálható, ingyenes betűkészletek. A Psd file használatával a felhasznált fontok kinyerhetőek (legalábbis a nevük). Természetesen amennyiben nem áll rendelkezésre photoshop nem lesz lehetőség a fontok pontos megismerésére, kérünk ebben az esetben ezt jelezd, de ettől függetlenül is törekedj a lehető legjobban megközelíteni a kapott képi anyagot.
 
 Responsive kialakítás, megoldás előny.
+
+
+Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a bertalan.hais@srg.hu címre.
