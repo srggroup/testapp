@@ -32,21 +32,20 @@ A kiiratások a layout mappában lévő fájlokban találhatók meg, melyekből 
 
 A rendszerhez egy kis fájl alapú adatbázist készítettünk, hogy adatbázis-beállítással ne kelljen foglalkozni. A fájl egy *serialize*-olt tömböt tartalmaz, és a root mappában található meg *database* néven. Található itt egy *database_original* fájl is, ami felhasználható backup-ként, ha bármi probléma merülne fel. Az adatbázisban kezdetben 10 felhasználó adatai találhatók meg.
 
-Egy egyszerű "mapping" rendszer is tartozik az adatbázishoz, ez a Model mappában található két fájl. 
-A **User** class egy felhasználót reprezentál, a megfelelő getter és setter függvényekkel.
+Egy egyszerű "mapping" rendszer is tartozik az adatbázishoz, ez a Model mappában található két fájl.   
+A **User** class egy felhasználót reprezentál, a megfelelő getter és setter függvényekkel.    
 A **Users** class maga a model, ahol megtalálhatók a mentéshez, törléshez, kereséséhez, valamint új felhasználó létrehozásához szükséges függvények. A DocBlock-okban további információk találhatók a metódusok használatával kapcsolatban.
 
 ------
 
 ## A tesztfeladat grafikai megvalósítása:
 
-A feladat ezen része a pontosságról szól.
-A grafikai kialakítás is fontos része a feladatnak, de ennek kisebb a súlya mint a technikai résznek.
-Lehetőség szerint ami megoldható CSS használatával az azzal legyen elkészítve. (Gradient, drop shadow...)
-A betűméretek, színek font stílusok egyezését is figyeljük.
+A feladat ezen része a pontosságról szól.   
+A grafikai kialakítás is fontos része a feladatnak, de ennek kisebb a súlya mint a technikai résznek.   
+Lehetőség szerint ami megoldható CSS használatával az azzal legyen elkészítve. (Gradient, drop shadow...)   
+A betűméretek, színek font stílusok egyezését is figyeljük.   
 
 A felhasznált betűkészletet nem csatoljuk, ezek online megtalálható, ingyenes betűkészletek. A Psd file használatával a felhasznált fontok kinyerhetőek (legalábbis a nevük). Természetesen amennyiben nem áll rendelkezésre photoshop nem lesz lehetőség a fontok pontos megismerésére, kérünk ebben az esetben ezt jelezd, de ettől függetlenül is törekedj a lehető legjobban megközelíteni a kapott képi anyagot.
-
 Responsive kialakítás, megoldás előny.
 
 Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a bertalan.hais@srg.hu címre, vagy tedd fel kérdésedett itt egy issue formájában.
