@@ -3,8 +3,6 @@
 
 /** block content **/
 
-			<h2>I'm extending Hello World</h2>
-
 			<div class="userIndex">
 
 				<ul class="users">
