@@ -11,10 +11,10 @@
 				<? foreach($context->users as $user){?>
 
 					<li class="user">
-						<p class="name"><?=$user->getName();?></p>
+						<? if($user->getAvatar()){ ?><img alt="<?=$user->getUsername();?>" src="<?=$user->getAvatar();?>" /><? } ?>
+						<h4><?=$user->getName();?></h4>
 						<p class="username"><?=$user->getUsername();?></p>
 						<p class="email"><?=$user->getEmail();?></p>
-						<? if($user->getAvatar()){ ?><img alt="<?=$user->getUsername();?>" src="<?=$user->getAvatar();?>" /><? } ?>
 
 						<a href="javascript:void(0)">Edit</a>
 						<a href="javascript:void(0)">Delete</a>

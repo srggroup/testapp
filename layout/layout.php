@@ -15,7 +15,7 @@
 <body>
 
 	<div id="container">
-		<h1>SRG Group Kft. Test app</h1>
+		<h1>SRG test list</h1>
 
 		<div id="content">
 

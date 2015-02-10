@@ -125,6 +125,17 @@ class Users extends \ArrayObject{
 	}
 
 	/**
+	 * Delete a user from the database
+	 * @param User $user
+	 * @return Users
+	 */
+	public function delete(User $user){
+		$this->offsetUnset($user->getId(), $user);
+		$this->_setDb();
+		return $this;
+	}
+
+	/**
 	 * Save the current state of database to the text file
 	 */
 	private function _setDb(){
