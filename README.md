@@ -12,7 +12,7 @@ A felhasználók adatai:
 * Nem (gender)
 * Profilkép (avatar) 
 
-A szerkesztés és hozzáadás megoldható külön oldalak használatával is, azonban az edit-in-place vagy pl. lightbox-os megoldásoknak jobban örülünk.
+A szerkesztés és hozzáadás megoldható külön oldalak használatával is, azonban az oldalon belüli szerkesztésnek (edit-in-place) vagy pl. lightbox szerű megoldásnak jobban örülünk.
 
 ------
 
@@ -45,10 +45,11 @@ A grafikai kialakítás is fontos része a feladatnak, de ennek kisebb a súlya 
 Lehetőség szerint ami megoldható CSS használatával az azzal legyen elkészítve. (Gradient, drop shadow...)   
 A betűméretek, színek font stílusok egyezését is figyeljük.   
 
-A felhasznált betűkészletet nem csatoljuk, ezek online megtalálható, ingyenes betűkészletek. A Psd file használatával a felhasznált fontok kinyerhetőek (legalábbis a nevük). Természetesen amennyiben nem áll rendelkezésre photoshop nem lesz lehetőség a fontok pontos megismerésére, kérünk ebben az esetben ezt jelezd, de ettől függetlenül is törekedj a lehető legjobban megközelíteni a kapott képi anyagot.
+A felhasznált betűkészletet nem csatoljuk, ezek online megtalálható, ingyenes betűkészletek. A Psd file-ból a felhasznált fontok kinyerhetőek (legalábbis a nevük). Természetesen amennyiben nem áll rendelkezésre photoshop nem lesz lehetőség a fontok pontos megismerésére, kérünk ebben az esetben ezt jelezd, de ettől függetlenül is törekedj a lehető legjobban megközelíteni a kapott képi anyagot.
+
 Responsive kialakítás, megoldás előny.
 
 ------
 
-Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a bertalan.hais@srg.hu címre, vagy tedd fel kérdésedett itt egy issue formájában.   
-Ha valamilyen hibát találsz, nyugodtan javítsd, vagy keress meg minket. :)
+Amennyiben bármilyen technikai kérdés merül fel, írj nekünk a dev@srg.hu címre, vagy tedd fel kérdésedett itt a GitHub-on egy issue formájában.   
+A feladatot további elemekkel is kiegészítheted, ezt már a kreativitásodra bízzuk. Lepj meg minket :)
