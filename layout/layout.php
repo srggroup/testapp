@@ -15,7 +15,10 @@
 <body>
 
 	<div id="container">
-		<h1>SRG test list</h1>
+		<header>
+			<h1>SRG test list</h1>
+			<a href="javascript:void(0)" class="add">Add user</a>
+		</header>
 
 		<div id="content">
 
