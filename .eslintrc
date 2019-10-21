@@ -1,0 +1,38 @@
+{
+  "extends": ["eslint:recommended", "plugin:compat/recommended"],
+
+  "parser": "babel-eslint",
+
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 9
+  },
+
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+
+  "rules": {
+    "compat/compat": "warn",
+    "no-console": "off",
+    "no-undef": "off",
+    "no-unused-vars": "off",
+    "quotes": ["warn", "single", {
+      "avoidEscape": true,
+      "allowTemplateLiterals": true
+    }],
+    "semi": ["warn", "always", {
+      "omitLastInOneLineBlock": true
+    }]
+  },
+
+  "settings": {
+    "polyfills": [
+      "Array.from",
+      "Object.assign",
+      "Object.entries",
+      "Promise"
+    ]
+  }
+}

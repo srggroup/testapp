@@ -1,0 +1,38 @@
+{
+  "name": "srg-test-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "webpack --watch --progress --mode=development",
+    "build": "webpack  --progress --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srggroup/testapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/srggroup/testapp/issues"
+  },
+  "homepage": "https://github.com/srggroup/testapp#readme",
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "autoprefixer": "^9.6.5",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "core-js": "^3.3.2",
+    "css-loader": "^3.2.0",
+    "eslint": "^6.5.1",
+    "eslint-loader": "^3.0.2",
+    "eslint-plugin-compat": "^3.3.0",
+    "file-loader": "^4.2.0",
+    "mini-css-extract-plugin": "^0.8.0",
+    "node-sass": "^4.12.0",
+    "postcss-loader": "^3.0.0",
+    "regenerator-runtime": "^0.13.3",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
