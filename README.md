@@ -38,6 +38,14 @@ A **Users** class maga a model, ahol megtalálhatók a mentéshez, törléshez, 
 
 ------
 
+## Frontend
+
+A frontend-oldali fájlok build-eléséhez létrehoztunk egy egyszerű, alap webpack konfigurációt. A webpack-et az `npm run start` paranccsal indíthatod, `npm run build`-del pedig _production_ módban futtathatod a build-et. A konfigurációt szükség szerint teljesen személyre szabhatod, akár HMR-rel kiegészítve, ahogy kényelmes.
+
+Nem muszáj ragaszkodnod a frontend statikus felépítéséhez, bármilyen egyedi megoldásra (pl. Vue, React app) is nyitottak vagyunk.
+
+------
+
 ## A tesztfeladat grafikai megvalósítása:
 
 A feladathoz tartozó anyagokat a DESIGNFILES mappában találod.
@@ -49,7 +57,7 @@ A betűméretek, színek font stílusok egyezését is figyeljük.
 
 A felhasznált betűkészletet nem csatoljuk, ezek online megtalálható, ingyenes betűkészletek. A Psd file-ból a felhasznált fontok kinyerhetőek (legalábbis a nevük). Természetesen amennyiben nem áll rendelkezésre photoshop nem lesz lehetőség a fontok pontos megismerésére, kérünk ebben az esetben ezt jelezd, de ettől függetlenül is törekedj a lehető legjobban megközelíteni a kapott képi anyagot.
 
-Responsive kialakítás, megoldás előny.
+Fontos a responsive kialakítás.
 
 ------
 
